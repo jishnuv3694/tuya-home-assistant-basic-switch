@@ -1,0 +1,1 @@
+# tuya-home-assistant-basic-switch
